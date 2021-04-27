@@ -1,0 +1,15 @@
+#1
+
+Enter the number of stairs that john has to run:   1
+Possible ways Johan can run up the 1 stairs is 
+1
+> 
+
+#2
+
+Enter the number of stairs that john has to run:   4
+Possible ways Johan can run up the 4 stairs is 
+7
+>
+
+
